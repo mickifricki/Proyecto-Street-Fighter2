@@ -1,17 +1,9 @@
-<<<<<<< HEAD
-mi pichaaa
 
-
-=======
-
-
-
+mi pichaaa <<<<<<< HEAD
 
 Pruesdfsadfasdfa de modificación
 
-
-dslkfjasdlñkfjlñasdjflkñasjñflkds
-
 Esto es una prueba muy madura: PENE!!!!
 
->>>>>>> origin/master
+Nos partimos el culo y el ricard nos mira mal.
+
